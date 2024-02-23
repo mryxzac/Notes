@@ -40,7 +40,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-- Special thanks to [mention any libraries, resources, or individuals you used or were inspired by in your development process].
+- Special thanks to Swift Apple for providing the development documents
 
 ## Disclaimer
 This project contains the possibility of losing saved data because of bug.
