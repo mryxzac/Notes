@@ -43,6 +43,6 @@ This project is licensed under the [MIT License](LICENSE).
 - Special thanks to Swift Apple for providing the development documents
 
 ## Disclaimer
-This project contains the possibility of losing saved data because of bug.
-The author will not be held responsible for any loss of data because of bug.
-If you are worried about the occurrence of the above situation, use other software instead of this.
+- This project contains the possibility of losing saved data because of bug.
+- The author will not be held responsible for any loss of data because of bug.
+- If you are worried about the occurrence of the above situation, use other software instead of this.
