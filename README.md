@@ -24,7 +24,11 @@ To get started with the Notes application, follow these steps:
 5. Start creating and managing your notes directly from your Apple Watch!
 
 ## Screenshots
-(Optional: Include screenshots of your application here)
+<img width="798" alt="image" src="https://github.com/zacyang-dz/Notes/assets/63173512/0df3a114-f22c-4294-b45a-4a1496518ee3">
+<img width="781" alt="image" src="https://github.com/zacyang-dz/Notes/assets/63173512/42960e35-85fa-4650-9fe5-d7738eeffdaf">
+<img width="767" alt="image" src="https://github.com/zacyang-dz/Notes/assets/63173512/58543328-1743-46cb-b611-70f8fa20736e">
+<img width="803" alt="image" src="https://github.com/zacyang-dz/Notes/assets/63173512/c15ff590-303a-4239-aee2-8fc1d2767a95">
+
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
