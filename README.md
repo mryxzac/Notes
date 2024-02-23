@@ -3,6 +3,9 @@
 ## Description
 Notes is a simple note-taking application designed specifically for Apple Watch. It allows users to quickly jot down notes directly from their wrist and access them easily.
 
+## How To Use?
+bilibili link : https://www.bilibili.com/video/BV1AK42187hK/
+
 ## Features
 1. **Custom File Name**: Users can give custom names to their notes for better organization.
 2. **Date Created and Modified**: The application displays the date when the note was created and last modified, providing users with important context.
